@@ -27,10 +27,10 @@ Do regression prediction for the chance of graduate admission by American univer
 6, Conclusion
 
 ### Tools of this project
-**Language**: Python
-**Library**: Scikit-learn 
-**Data processing**: Numpy, Pandas
-**Plot**: Matplotlib, seaborn
+**Language**: Python  
+**Library**: Scikit-learn   
+**Data processing**: Numpy, Pandas  
+**Plot**: Matplotlib, seaborn  
 
 ### Key words:
 Machine learning, Linear regression, model ensemble, undertraining and overfitting, cross verification
