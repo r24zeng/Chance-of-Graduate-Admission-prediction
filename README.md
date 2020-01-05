@@ -22,9 +22,9 @@ Do regression prediction for the chance of graduate admission by American univer
 1. Preprocessing data
 2. Linear regression as the base model
 3. Ridge regression, Multi-layer Perceptron(MLP) Regression and Random Forest regression to do furthure training
-4, Ensemble model to develop the performance by emsemble strategy of stacking
-5, Evaluate model perfermance by MSE and r2 score 
-6, Conclusion
+4. Ensemble model to develop the performance by emsemble strategy of stacking
+5. Evaluate model perfermance by MSE and r2 score 
+6. Conclusion
 
 ### Tools of this project
 **Language**: Python  
